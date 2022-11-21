@@ -3,3 +3,4 @@ function AreaCircle(a) {
     console.log(sum)
 }
 AreaCircle(1)
+AreaCircle(2)
